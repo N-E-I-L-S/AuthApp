@@ -1,0 +1,17 @@
+.homepage{
+    font: 400 1.1rem VT323, monospace;
+  line-height: 310%;
+  letter-spacing: 0.09em;
+  opacity: 0.9;
+    text-align: center;
+    margin-top: 10vh;
+    color: #02d7f2;
+    width: 50%;
+    margin-left: 25vw;
+    height: 75vh;
+}
+
+.home-text{
+    font: 400 1.75rem VT323, monospace;
+    margin-bottom: 4rem;
+}
